@@ -1,5 +1,41 @@
 h1 {
     text-align: center;
-    color: aqua;
-    font-size: large;
+    background-color: grey;
+    width: 200px;
+    margin:auto;
+    
+}
+
+
+body {
+    background-image:url("images/money.jpg");
+
+}
+
+.top{
+    background-color: lightseagreen;
+
+}
+
+
+.menu{
+    background-color: darkgreen;
+    
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid black;
+    float: left;
+    float: right;
+}
+th {
+    border: 1px solid black;
+    padding: 2px;
+}
+
+
+
+.header{
+    width: 100px;
 }
